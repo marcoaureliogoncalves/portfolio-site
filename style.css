@@ -369,3 +369,9 @@ p {
     hyphens: auto;
 }
 
+/* Centralizar título e subtítulo do cabeçalho */
+header h1,
+header p {
+    text-align: center;
+}
+
